@@ -41,7 +41,7 @@ console.log(mult1(numeroA, numeroB), mult2(numeroA, numeroB))
 var numero = 10;
 
 if (numero > 10) {
-    console.log("el numero es mayor o igual que 10")
+    console.log("el número es mayor o igual que 10")
 } else {
     console.log("el numero no es mayor que 10")
 }
